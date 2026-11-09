@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Upload Time & Video Analyzer",
+  "description": "Analisis waktu upload video TikTok akurat hingga jam, menit, detik, tanggal, dan hari dari link TikTok secara instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
